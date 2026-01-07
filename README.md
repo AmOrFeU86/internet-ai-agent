@@ -124,6 +124,3 @@ El agente utiliza **Function Calling** para determinar cuándo usar cada herrami
 
 MIT
 
-## Autor
-
-[Tu nombre] - [Tu canal de YouTube]
