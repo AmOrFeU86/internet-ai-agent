@@ -1,0 +1,58 @@
+# Credenciales y secretos de Google
+client_secret_*.json
+!client_secret.example.json
+gmail_token.pickle
+token.pickle
+
+# Imágenes generadas
+generated_images/
+
+# Audios generados
+generated_audio/
+
+# Variables de entorno y configuración
+.env
+.env.local
+*.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Entornos virtuales
+venv/
+env/
+ENV/
+.venv
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Logs
+*.log
+
+# Archivos de sistema
+Thumbs.db
